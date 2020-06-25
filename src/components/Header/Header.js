@@ -24,7 +24,7 @@ export default class Header extends Component {
     return (
       <div className='Header__not-logged-in'>
         <Link
-          to='/login'>
+           to='/login'>
           Log in
         </Link>
         <Link
